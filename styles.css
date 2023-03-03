@@ -1,2 +1,8 @@
 
 /* Your CSS Code here. */
+table{
+	border:solid 2px black;
+}
+tbody{
+	border:solid 2px black;
+}
